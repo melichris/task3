@@ -122,9 +122,47 @@ button{
     display: flex;
     flex-direction: column;
     text-align: center;
-    margin-left: 20px;
-    width: 32%;
+    margin: 50px;
+    width: 30%;
     background-color: white;
     border-radius: 10px;
    
+}
+.others{
+    height: 60vh;
+    width: 100%;
+    background-color: whitesmoke;
+}
+.others img{
+    width: 12%;
+    background-color: white;
+    padding: 20px;
+    margin: 30px;
+}
+footer{
+    height:120vh;
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+}
+.copyright{
+display: flex;
+}
+.copyright a{
+    color: yellow;
+}
+.partners{
+    height: 20vh;
+    margin: 50px;
+    background-color: white;
+}
+.menu{
+    display: flex;
+}
+.menu h2{
+    padding: 20px;
+    width: 30.25%;
+    margin: 20px;
 }
