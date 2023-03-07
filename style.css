@@ -2,6 +2,10 @@
     margin: 0px;
     padding: 0px;
 }
+.navigator{
+    display: flex;
+    text-align: centerc;
+}
 
 button{
     background-color: transparent;
